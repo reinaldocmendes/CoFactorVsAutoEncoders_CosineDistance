@@ -1,0 +1,12 @@
+Test Recall@10: 0.1580
+Test Recall@20: 0.1570
+Test Recall@50: 0.1780
+Test Recall@100: 0.2310
+Test NDCG@10: 0.1611
+Test NDCG@20: 0.1553
+Test NDCG@50: 0.1565
+Test NDCG@100: 0.1747
+Test MAP@10: 0.0910
+Test MAP@20: 0.0737
+Test MAP@50: 0.0592
+Test MAP@100: 0.0560
